@@ -1,2 +1,9 @@
-# dest_test
-destination repo for the test, deleting later
+# test
+testing, will delete later
+
+
+random things
+
+DEVELOP BRANCH THINGS
+
+bananas are great. yay bananas
