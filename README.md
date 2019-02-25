@@ -1,25 +1,2 @@
 # test
 testing, will delete later
-
-
-random things
-
-DEVELOP BRANCH THINGS
-
-## Bananas
-
-bananas are great. yay bananas
-
-:yaybanana:
-
-## No bananas
-
-I don't like bananas :(
-
-## if you like bananas
-
-They have them at Safeway
-
-### other places with bananans
-
-Ralphs
