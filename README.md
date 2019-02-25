@@ -13,3 +13,7 @@ They have them at Safeway
 ### other places with bananans
 
 Ralphs
+
+stores
+we buy things from them
+all the time
