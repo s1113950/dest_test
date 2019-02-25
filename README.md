@@ -10,6 +10,8 @@ I don't like bananas :(
 
 They have them at Safeway
 
+safeway sells salad
+
 ### other places with bananans
 
 Ralphs
