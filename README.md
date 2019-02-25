@@ -17,3 +17,7 @@ Ralphs
 stores
 we buy things from them
 all the time
+
+so many stores we buy things at
+all the stores
+many stores
